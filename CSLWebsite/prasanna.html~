@@ -1,0 +1,747 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>CSL</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" href="styles/layout.css" type="text/css" />
+    <link rel="stylesheet" href="scripts/tabcontent.css" type="text/css">
+<!-- Homepage Specific Elements -->
+<script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="scripts/jquery.timers.1.2.js"></script>
+<script type="text/javascript" src="scripts/jquery.galleryview.2.1.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.galleryview.setup.js"></script>
+<script type="text/javascript" src="scripts/tabcontent.js"></script>
+<!-- End Homepage Specific Elements -->
+</head>
+<body id="top">
+<div class="wrapper row1">
+  <div id="header" class="clear">
+    <div class="fl_left">
+      <h1><a href="index.html">CSL</a></h1>
+      <p><a href="www.iiitb.ac.in"><p>International Institute of Information Technology-Bangalore </a></p>
+    </div>
+    <div class="fl_right">
+      <!-- <p><a href="#">A - Z Index</a> | <a href="#">Student Login</a> | <a href="#">Staff Login</a></p> -->
+      <!-- <form action="#" method="post" id="sitesearch">
+        <fieldset>
+          <legend>Site Search</legend>
+          <input type="text" value="Search Our Website&hellip;" onfocus="this.value=(this.value=='Search Our Website&hellip;')? '' : this.value ;" />
+          <input type="image" src="images/search.gif" id="search" alt="Search" />
+        </fieldset>
+      </form> -->
+    </div>
+    <div id="topnav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li class="active"><a href="people.html">People</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="courses.html">Courses</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="facilities.html">Facilities</a></li>
+        <li class="last"><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row2">
+  <div id="hpage_featured" class="clear">
+    <!-- ####################################################################################################### -->
+   
+    <!-- ####################################################################################################### -->
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row3">
+  <div id="container" class="clear">
+    <!-- ####################################################################################################### -->
+    <div id="homepage" class="clear">
+      <!-- ###### -->
+
+        <div id="top_featured" class="clear">
+          <ul class="clear">
+            
+	<table >
+            <tbody>
+              <tr>
+                <td><img src="images/ProfPrasanna.jpeg" border="0" ></td>
+              </tr>
+              <tr>
+                <td colspan="2" width="30%"> <b> G. N. Srinivasa
+                    Prasanna, <br>
+                  </b>Ph.D (MIT), 
+		<a href="documents/profprasanna.pdf" target="_blank"
+                    class="txtcontlink" style=" text-decoration:
+                    underline;"><span style="font-weight: normal;">CV
+                      </span><br>
+                  </a><a href="documents/profprasanna.pdf"
+                    target="_blank" class="txtcontlink"
+                    style="text-decoration: underline;"><br>
+                  </a></td>
+              </tr>
+		<tr width="70%">
+                <td colspan="2">
+                  <span style="font-weight: bold;">G. N. S. Prasanna</span>
+                  did his B.Tech at IIT Kanpur, and MS and Ph.D at MIT,
+                  USA. He has worked at IIIT-B since 2004, and
+                  previously at Lucent Microelectronics and Lucent Bell
+                  Laboratories, for about 11 years. <br><br>
+                  
+                  At Lucent Prof. Prasanna worked in a variety of
+                  fields, including VLSI, switching, optical networking,
+                  etc. He was responsible for the signal processing
+                  system design of a major access product for Lucent's
+                  5ESS switch, accounting for 30 million lines
+                  worldwide. <br><br>
+                  
+                  Prof. Prasanna has published about 50 papers, and
+                  holds about 20 patents (available on WIPO
+                  http://www.wipo.org). He has been on several technical
+                  program committees and has served as a referee for
+                  several journals. He is interested in robust
+                  optimization, communication systems (optical,
+                  wireless, powerline), electromechanical systems,
+                  animation and mathematics. </td>
+              </tr>
+		</tbody>
+	</table>
+	<ul class="tabs">
+            <li> <a href="#" rel="view1">Publications</a> </li>
+            <li> <a href="#" rel="view2">Awards and Patents</a> </li>
+            <li> <a href="#" rel="view3">Memberships</a> </li>
+          </ul>
+              
+	  <div class="tabcontents">
+            <div id="view1" class="tabcontent">
+              <div id="BookChapters" class="txtcont"
+                style="text-align:justify; ">
+                <h2>Book Chapters</h2>
+                <b>1.</b> G.N.Srinivasa Prasanna, Sunil K.Vuppala,
+                "Power Line Communication: Past, Present and Future and
+                Smart Grid" book chapter in eBook " Power Line
+                Communication Technologies for Smart Grids, Smart Cars,
+                and Smart Homes" [Kindle Edition] by CMOS Emerging
+                Technologies, 1 edition (10 Feb 2012) ASIN: B0077Y03MC.
+                <br>
+                <br>
+                <a target="_blank"
+href="http://www.amazon.co.uk/Power-Communication-Technologies-Smart-ebook/dp/B0077Y03MC">http://www.amazon.co.uk/Power-Communication-Technologies-Smart-ebook/dp/B0077Y03MC
+                </a> <br>
+                <div class="txtcontlink"> <a
+                    href="abstract.html?id=bookChap1"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <br>
+                </div>
+               <b>2.</b> Aswal, A., Prasanna, G. N. Srinivasa, A
+                Primal-Dual Iterative Scheme for solving Capacity
+                Planning Problems under Uncertainty, IAENG Transactions
+                on Engineering Technologies Volume 4, 2010, <br>
+                Published by American Institute of Physics <br>
+                <br>
+                <div class="txtcontlink"> <a
+                    href="abstract.html?id=bookChap2"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/bookChapter2.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    Book Chapter</a> </div>
+                <br>
+                <br>
+                <b>3.</b> Aswal, A., Prasanna, G. N. Srinivasa, A Robust
+                Approach to Inventory Optimization under Uncertainty,
+                IAENG Transactions on Engineering Technologies Volume 3
+                - Special Edition of the International MultiConference
+                of Engineers and Computer Scientists 2009, <br>
+                published by American Institute of Physics <br>
+                <div class="txtcontlink"> <a
+                    href="abstract.html?id=bookChap3"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/bookChapter3.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    Book Chapter</a></div>
+                <br>
+                <br>
+                <h2>Publications</h2>
+              </div>
+              <div id="2011" class="txtcont" style="text-align:justify;">
+                <h2>2012</h2>
+                <hr><br>
+                <b>1.</b> Abhilasha Aswal, Ganesh Perumal M. and G. N.
+                Srinivasa Prasanna, "On basic financial decimal
+                operations on binary machines", IEEE Transactions on
+                Computers <br>
+                Aswal, A.; Perumal, M.G.; Prasanna, G.N.S.; , "On Basic
+                Financial Decimal Operations on Binary Machines,"
+                Computers, IEEE Transactions on , vol.61, no.8,
+                pp.1084-1096, Aug. 2012 doi: 10.1109/TC.2012.89 <br>
+                <br>
+                <a
+href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6189314&amp;isnumber=6226550">http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=6189314&amp;isnumber=6226550</a>
+                <br>
+                <div class="txtcontlink"> <a
+                    href="documents/abhilashaFP.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    PDF</a> </div>
+                <br>
+                <br>
+                <b>2.</b> Shreya Malani, G N Srinivasa Prasanna, Jesus A
+                del Alamo, James L Hardison, Kannan Moudgalya, Venkatesh
+                Chopella, "Issues faced in a Remote Instrumentation
+                Laboratory" accepted in T4E, Technology for Education
+                IEEE 2012. <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=2"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a> <br>
+                  <a href="documents/T4EPaper.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    PDF</a> </div>
+                <br>
+                <br>
+                <b>3. </b>Ganesh Perumal M., Abhilasha Aswal and G. N.
+                Srinivasa Prasanna, "An Adversarial approach to maximize
+                gain due to finite precision errors in basic financial
+                computations", accepted for presentation at the annual
+                EURO OR conference, July 2012 <br>
+                <br>
+                <b>4.</b> AbhilashaAswal, Sunil Kumar Vuppala and G N
+                SrinivasaPrasanna, "Demand response in smart grid
+                systems",accepted for presentation at the annual EURO OR
+                conference, July 2012 <br>
+                <br>
+                <b>5.</b> Shriguru Nayak, Neha Bhatia and G. N.
+                Sriniviasa Prasanna, "Database for Convex
+                Optimization",accepted for presentation at the annual
+                EURO OR conference, July 2012 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=5"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>6.</b> G. N. Srinivasa Prasanna, Kundan Kumar,
+                Subhrajit Debnath, Rahul Paul," High Speed Methods for
+                Volume Computation and Applications to Robust
+                Optimization in Supply Chain Management", accepted for
+                presentation at EURO 2012, 25th European Conference on
+                Operational Research ,8-11 July 2012 in Vilnius,
+                Lithuania. <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=6"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>7.</b> Pradeep Rao, Sayantan Mitra, Foy Nathanael, G
+                N Srinivasa Prasanna, "Fast adaptive sampling technique
+                for multi-dimensional integral estimation using GPUs" <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=7"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a> <br>
+                  <a
+href="documents/Whitepaper%20-Fast%20Adaptive%20Sampling%20Technique%20for%20Multi-Dimensional%20Integral%20Estimation%20using%20GPUs.pdf"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PDF</a> </div>
+                <br>
+                <br>
+                <b>8.</b> Abhilasha Aswal, Ganesh Perumal, G N S
+                Prasanna, "Estimation of Constraints for Supply Chain
+                Management using Robust Optimization",
+                ORSI-International Conference on Operations Research for
+                Sustainable Development in Globalized Environment,
+                January 2012, Kolkata, India <br>
+                <br>
+                <b>9.</b> Shreya Malani, Sreenidhi T, G N Srinivasa
+                Prasanna, "A Simulated Annealing based approach for
+                solving SplitSearch", ORSI January 2012, Kolkata, India
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=9"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a> <br>
+                  <a href="documents/ORSIpaper_016.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    PDF</a> </div>
+                <br>
+                <br>
+                <b>10.</b> Sunil Kumar Vuppala and G N Srinivasa
+                Prasanna, "Optimal Operational Schedule of Appliances
+                with Energy Comfort Trade off in Smart Grid", ORSI
+                January 2012, Kolkata, India <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=10"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a> <br>
+                  <a
+                    href="documents/ORSI-Abstract-OptimalOperationalSchedule.pdf"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PDF</a>
+                  <hr> </div>
+                <br>
+                <br>
+                <h2>2011</h2>
+                <b>11.</b> Chandrasekhar Prabala and G N Srinivasa
+                Prasanna, "Demand Driven Transport under Large Demands",
+                INFORMS Annual Meeting, November 2011, Charlotte, US <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=11"
+                    class="txtcontlink" style="text-decoration:
+                    underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>12.</b> G N Srinivasa Prasanna, Abhilasha Aswal and
+                Sunil Vuppala, "Smart Grid: Optimization Methods for
+                Demand Response Systems", INFORMS Annual Meeting,
+                November 2011, Charlotte, US <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=12"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>13.</b> Akanksha Saxena, Peravali Nagadeepthi, G N S
+                Prasanna, "Output Analysis of Supply Chain N/w Design by
+                Linear &amp; Nonlinear Dimensionality Reduction
+                techniques", INFORMS Annual Meeting, November 2011,
+                Charlotte, US <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=13"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>14.</b> Abhilasha Aswal, Ganesh Perumal, G N S
+                Prasanna, "On estimating constraints for robust
+                optimization of supply chains", INFORMS Annual Meeting,
+                November 2011, Charlotte, US <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=14"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>15.</b> Abhilasha Aswal, Ganesh Perumal M and G N
+                Srinivasa Prasanna, "Infrastructure in Financial
+                Precision: Theory and Simulation", Doctoral Colloquium
+                of IDRBT Hyderabad, September 2011, Hyderabad, India <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=15"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/FinancialPrecision.pdf"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PDF</a> </div>
+                <br>
+                <br>
+                <hr> </div>
+              <div id="2010" class="txtcont" style="text-align:justify;">
+                <h2>2010</h2>
+                <b>16.</b> Abhilasha Aswal and G. N. Srinivasa Prasanna,
+                "New Vistas in Supply Chain Policy Making under
+                Uncertainty", SetLabs Briefings, Volume 8, No. 1:
+                Business Platforms for Next-Generation Enterprise
+                Packages; 2010 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=16"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>17.</b> Chandrasekhar Prabala, G. N. Srinivasa
+                Prasanna and Sunil Kumar Vuppala, "Demand Driven
+                Transport in Developing Nations: Pareto Tradeoffs",
+                INFORMS Annual Meeting 2010; November 7-10 2010; Austin,
+                Texas <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=17"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>18.</b> Prasanna, G. N. Srinivasa, "The Relational
+                Algebra of Constraint Sets in Robust Optimization",
+                INFORMS Annual Meeting 2010; November 7-10 2010; Austin,
+                Texas <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=18"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>19.</b> Abhilasha Aswal and G. N. Srinivasa Prasanna,
+                "Inventory Optimization with Correlated Uncertainty",
+                INFORMS Annual Meeting 2010; November 7-10 2010; Austin,
+                Texas <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=19"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/informsannualmeet2010.ppt"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PPT</a> </div>
+                <br>
+                <br>
+                <b>20.</b> Mamta Sharma, G. N. Srinivasa Prasanna and
+                Abhilasha Aswal, "N-Dimensional Volume Estimation of
+                Convex Bodies: Algorithms and Applications",
+                presentation accepted at the 24th European Conference on
+                Operations Research; July 11 - 14 2010; Lisbon, Portugal
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=20"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/VolumeComp_euro.ppt"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PPT</a> </div>
+                <br>
+                <br>
+                <b>21. </b>Abhilasha Aswal, G. N. Srinivasa Prasanna
+                and Sheela Siddappa, "Estimating Correlated Constraint
+                Boundaries from timeseries data: The multi-dimensional
+                German Tank Problem",24th European Conference on
+                Operations Research; July 11 - 14 2010; Lisbon, Portugal
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=21"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/Euro2010presentation.ppt"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PPT</a> </div>
+                <br>
+                <br>
+                <b>22.</b> Abhilasha Aswal and G. N. Srinivasa Prasanna,
+                "Computational Complexity of Capacity Planning Problems
+                under Uncertainty", Proceedings of the International
+                MultiConference of Engineers and Computer Scientists
+                2010; pp 2010-2017; IMECS 2010, March 17 - 19, 2010,
+                Hong Kong <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=22"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <hr> </div>
+              <div id="2009" class="txtcont" style="text-align:justify;">
+                <h2>2009</h2>
+                <b>23.</b> G. N. Srinivasa Prasanna, Electrical
+                Mechanisms (EMECS): Design Methods and Properties
+                NaCoMM, December 2009 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=23"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/nacomm09.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    PDF</a></div>
+                <br>
+                <br>
+                <b>24.</b> Aswal, A., Prasanna, G. N. Srinivasa, A New,
+                "Intuitive and Industrial Scale Approach towards
+                Uncertainty in Supply Chains", Presented at the INFORMS
+                Annual meeting, San Diego, October 2009 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=24"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/INFORMSAnnualMeeting.ppt"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PPT</a></div>
+                <br>
+                <br>
+                <b>25.</b> Aswal, A., Prasanna, G. N. Srinivasa, "New
+                framework for supply chain decision making under
+                uncertainty: An analysis of the computational effort",
+                Presented at the Euro OR conference in Bonn, July 2009 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=25"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/EUROpresentation.ppt"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PPT</a> </div>
+                <br>
+                <br>
+                <b>26. </b>Aswal, A., Prasanna, G. N. Srinivasa, "New
+                Vistas in Inventory Optimization under Uncertainty",
+                Proceedings of the IAENG International Conference on
+                Operations Research, Hong Kong, March 2009 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=26"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/ICORpresentation.ppt"
+                    target="_blank" style="text-decoration: underline;
+                    color: blue;">Download PPT</a> </div>
+                <br>
+                <br>
+                <b>27. </b>Aswal, A., Prasanna, G. N. Srinivasa,
+                "Coupling Information Theory with Optimization: A New
+                Approach to Robust Design of Supply Chains", Proceedings
+                of the 23rd Belgian Conference on Operations Research,
+                Leuven, February 2009 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=27"
+                    style="text-decoration: underline; color: blue;">Abstract</a>
+                  <br>
+                  <a href="documents/nacomm09.pdf" target="_blank"
+                    style="text-decoration: underline; color: blue;">Download
+
+
+
+
+
+
+
+                    PDF</a></div>
+                <br>
+                <br>
+                <b>28. </b>G. N. Srinivasa Prasanna, Amrita Lakshmi, J.
+                Bapat, G. Koomolil, Vijaya Simha, and Sumath, S, Data
+                Communication in the Smart Grid, proc ISPLC 2009<br>
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=28"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <hr> </div>
+              <div id="2007" class="txtcont" style="text-align:justify;">
+                <h2>2007</h2>
+                <b>29. </b>Electrical Mechanisms: A merger of
+                mechanisms and electrical machines NaCoMM, December 2007
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=29"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>30. </b>Aswal, A., Chandrababu, A., Paturu, Dileep
+                Kumar, Prasanna, G. N. Srinivasa, "Capacity Planning
+                Under Uncertainty: A Merger of Robust Optimization and
+                Information Theory applied to Supply Chain Management",
+                Proceedings of the 40th Annual Convention of Operational
+                Research Society of India, December 2007 <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=30"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>31.</b> Mayank Raj, Ritesh Kumar, K. R. Sarma, and G.
+                N. Srinivasa Prasanna, Aerial MV lines at VHF/UHF: A
+                Versatile Broadband Hybrid Wireless/Wireline Channel,
+                Proceedings International Symposium on Powerline
+                Communication, ISPLC 2007, March 26-28, 2007 Pisa, Italy
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=31"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <hr> </div>
+              <div id="2006" class="txtcont" style="text-align:justify;">
+                <h2>2006</h2>
+                <b>32.</b> G. N. Srinivasa Prasanna, Aerial MV lines at
+                VHF/UHF: Quasi-TEM Analysis and Experimental Results,
+                Proceedings International Symposium on Powerline
+                Communication, ISPLC 2006, March 26-29, 2006 Florida,
+                USA. <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=32"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <br>
+                <br>
+                <b>33.</b> G. N. Srinivasa Prasanna, The MV Aerial Power
+                Grid at VHF/UHF rivals Fiber in Capacity, Proceedings
+                OFC 2006, March 2006, Anaheim, CA.<br>
+                <br>
+                <br>
+                <div class="txtcontlink"><a href="abstract.html?id=33"
+                    style="text-decoration: underline; color: blue;">Abstract</a></div>
+                <hr> </div>
+            </div>
+
+		<div id="view2" class="tabcontent">
+              <div class="txtcont" style="text-align: justify;">
+                <h2>List of Patents</h2>
+                <br>
+                <b>1.</b> Prasanna G.N.S., <a
+href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&amp;Sect2=HITOFF&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;co1=AND&amp;d=PTXT&amp;s1=%22GORUR+NARAYANA%22.INNM.&amp;OS=IN/%22GORUR+NARAYANA%22&amp;RS=IN/%22GORUR+NARAYANA"
+                  target="_new">Inverse Chess, US Patent,
+                  PCT/IN2006/000237</a> <br>
+                <br>
+                <b>2.</b> Prasanna G.N.S., Motion control using
+                electromagnetic forces, US Patent 7,733,050<br>
+                <br>
+                <b>3.</b> Prasanna G.N.S., Aswal, A., New vistas in
+                Inventory Optimization under Uncertainty, International
+                patent application PCT/IN2010/000136 (filed March 9,
+                2009). <br>
+                <br>
+                <b>4.</b> Prasanna G.N.S., et al., Decision Support
+                Methods under Uncertainty, International patent
+                application PCT/IN2009/000390 (filed July 10, 2008). <br>
+                <br>
+                <b>5.</b> Prasanna G.N.S., et al., A computer
+                implemented decision support method and system,
+                International patent application PCT/IN2009/000398
+                (filed July 11, 2008).<br>
+                <br>
+                <b>6.</b> Prasanna G.N.S., et al., Powerline
+                communication system at vhf/uhf, International patent
+                application PCT/IN2008/000187 (filed March 26, 2007).<br>
+                <br>
+                <b>7.</b> Prasanna G.N.S., et al., A method and system
+                for a real-time distributed search, International patent
+                application PCT/IN2006/000238 (filed July 7, 2005).<br>
+                <br>
+                <b>8.</b> Prasanna G.N.S., et al., Novel methods for
+                supply chain management incorporating uncertainty,
+                European Patent Application EP1922677, International
+                patent application PCT/IN06/000239 (filed July 7, 2005).<br>
+                <br>
+                <b>9.</b> Prasanna G.N.S., et al., Inverse chess, United
+                States Patent Application 20080197569, European Patent
+                Application EP1919577 (filed July 7, 2005).<br>
+                <br>
+                <b>10.</b> Prasanna G.N.S., et al., Broadband hf/vhf/uhf
+                communication on power lines, International patent
+                application PCT/IN2006/000223 (filed June 29, 2005).<br>
+                <br>
+                <b>11.</b> Prasanna, G.N.S., Motion control using
+                electromagnetic forces,US Patent 7,348,754 <br>
+                <br>
+                <h2>Awards</h2>
+                <ul>
+                  <li>Supply Chain Management awarded first in 'Discover
+                    Stars' from DST/CMIE, 2011. </li>
+                  <li>Best Student Paper Award ORSI, Shreya Malani,
+                    Sreenidhi T, G N Srinivasa Prasanna, "A Simulated
+                    Annealing based approach for solving SplitSearch",
+                    ORSI January 2012, Kolkata, India </li>
+                  <li> "Optimization under uncertainty" project won
+                    "outstanding Innovation" award at Bangalore It.<br>
+                    <a
+                      href="http://www.bangaloreit.biz/IT_2011/index.php">Biz
+
+
+
+
+
+
+
+                      2011</a></li>
+                  <li>"Big Kahuna" project runner up at the Google
+                    Product Prodigy 2009</li>
+                  <li>Baliga Award 2007 from IETE</li>
+                  <li>Powerline Communication: Finalist for Agilent
+                    India Awards, 2007</li>
+                  <li>Inverse Chess listed amongst top 100 Indian
+                    Innovative Companies by NASSCOM for 2007.</li>
+                  <li>Powerline Communication listed amongst top 100
+                    Indian Innovative Companies by NASSCOM</li>
+                  for 2007.
+                </ul>
+              </div>
+            </div>
+
+		<div id="view3" class="tabcontent">
+              <div class="txtcont" style="text-align: justify;">
+                <h2>Program Committee Memberships</h2>
+                <h3>Technical Program Committee (Communications)</h3>
+                <ul>
+                  <li>ISPLC 2005 - Present</li>
+                  <li>Globecom 2007 - Present</li>
+                  <li>ICC 2008 - Present</li>
+                </ul>
+                <h3>Technical Programme Committee (Analytics)</h3>
+                <ul>
+                  <li>Member ACM</li>
+                  <li>Informs (Session Chair)</li>
+                  <li>CASE 2008</li>
+                </ul>
+                <h3>Organizing Committee</h3>
+                <ul>
+                  <li>WWW 2011, Hyderabad, India</li>
+                  <li>Senior Member IEEE</li>
+                </ul>
+                <h2>Reviewer</h2>
+                <ul>
+                  <li>Referee for Algorithmica, Computers and Electrical
+                    Engg., Computer Networks</li>
+                  <li>JSAC(Special Issue on Optical Networks and Smart
+                    Grid)</li>
+                  <li>IEEE Transactions on Parallel and Distributed
+                    Systems, Networks 2000</li>
+                </ul>
+              </div>
+            </div>
+              <p class="readmore"><!--<a href="#">Continue Reading &raquo;</a>--></p>
+            
+            
+          </ul>
+
+       </div>
+      
+    </div>
+    <!-- ####################################################################################################### -->
+  </div>
+</div>
+</div>
+<!-- ####################################################################################################### -->
+
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="copyright" class="clear">
+    <p align="center">
+     &copy; 2013 CSL @ IIIT-Bangalore. All rights reserved<br>
+26/C Electronics City, Hosur Road, Bangalore 560 100<br>
+India</p>
+    <!--<p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>-->
+  </div>
+</div>
+</body>
+</html>

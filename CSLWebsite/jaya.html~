@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+<head profile="http://gmpg.org/xfn/11">
+<title>CSL</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" href="styles/layout.css" type="text/css" />
+    <link rel="stylesheet" href="scripts/tabcontent.css" type="text/css">
+<!-- Homepage Specific Elements -->
+<script type="text/javascript" src="scripts/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="scripts/jquery.timers.1.2.js"></script>
+<script type="text/javascript" src="scripts/jquery.galleryview.2.1.1.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.galleryview.setup.js"></script>
+<script type="text/javascript" src="scripts/tabcontent.js"></script>
+<!-- End Homepage Specific Elements -->
+</head>
+<body id="top">
+<div class="wrapper row1">
+  <div id="header" class="clear">
+    <div class="fl_left">
+      <h1><a href="index.html">CSL</a></h1>
+      <p><a href="www.iiitb.ac.in"><p>International Institute of Information Technology-Bangalore </a></p>
+    </div>
+    <div class="fl_right">
+      <!-- <p><a href="#">A - Z Index</a> | <a href="#">Student Login</a> | <a href="#">Staff Login</a></p> -->
+      <!-- <form action="#" method="post" id="sitesearch">
+        <fieldset>
+          <legend>Site Search</legend>
+          <input type="text" value="Search Our Website&hellip;" onfocus="this.value=(this.value=='Search Our Website&hellip;')? '' : this.value ;" />
+          <input type="image" src="images/search.gif" id="search" alt="Search" />
+        </fieldset>
+      </form> -->
+    </div>
+    <div id="topnav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li class="active"><a href="people.html">People</a></li>
+        <li ><a href="projects.html">Projects</a></li>
+        <li ><a href="courses.html">Courses</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="facilities.html">Facilities</a></li>
+        <li class="last"><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row2">
+  <div id="hpage_featured" class="clear">
+    <!-- ####################################################################################################### -->
+   
+    <!-- ####################################################################################################### -->
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper row3">
+  <div id="container" class="clear">
+    <!-- ####################################################################################################### -->
+    <div id="homepage" class="clear">
+      <!-- ###### -->
+
+        <div id="top_featured" class="clear">
+          <ul class="clear">
+            
+	  <table>
+            <tbody>
+              <tr>
+                <td><img src="images/ProfJaya.jpeg" border="0"><br>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" style="width: 30%;"><span
+                    style="font-weight: bold;">Jaya Sreevalsan Nair</span>,<br>
+                  Ph.D (UC-Davis), 
+                  <a href="documents/profjaya.pdf">CV </a><br>
+                  <span class="txtcontlink" style="text-decoration:
+                    underline;"> </span><br>
+                </td>
+              </tr>
+              <tr width="70%">
+                <td colspan="2"><br>
+                  <b>Jaya Sreevalsan Nair</b> obtained her Ph.D. in
+                  Computer Science from University of California, Davis;
+                  after a B.Tech in Aerospace Engineering from IITM and
+                  a M.S. in Computational Engineering from Mississippi
+                  State University. Prior to joining IIIT-B, she worked
+                  as a scientific programmer at Enthought Inc. Austin
+                  and as a research associate at Texas Advanced
+                  Computing Center, University of Texas at Austin. Her
+                  areas of interest are scientific computing, scientific
+                  visualization, computer graphics, and computational
+                  geometry. </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+     
+        <div class="txtcont" style="text-align: justify;"> <br>
+          <ul class="tabs">
+            <li> <a href="#" rel="view1">Publications</a> </li>
+            <li> <a href="#" rel="view2">Awards and Patents</a> </li>
+            <li> <a href="#" rel="view3">Memberships</a> </li>
+          </ul>
+          <div class="tabcontents">
+            <div id="view1" class="tabcontent">
+              <div id="Peer-ReviewedConferenceProceedings"
+                class="paragraph ">
+                <h2>Peer-Reviewed Conference Proceedings</h2>
+                <ul>
+                  <li> A. Narayan, J. Sreevalsan-Nair, K. Gaither, and
+                    B. Hamann, Isosurface Extraction from Hybrid
+                    Unstructured Grids Containing Pentahedral Elements,
+                    Kraus, M., Laramee, R.S., Battiato, S., de Campos,
+                    T., Jurie, F., Kato, Z. and Raducanu, B., eds.,
+                    Proceedings of International Conference on
+                    Information Visualization Theory and Applications
+                    2012 (GRAPP/IVAPP 2012), 660-669. </li><br>
+                  <li> C. Auer, J. Sreevalsan-Nair, V. Zobel, and I.
+                    Hotz, 2D Tensor Field Segmentation, Scientific
+                    Visualization: Interactions, Features, and
+                    Metaphors, Schloss Dagstuhl-Leibniz-Zentrum fur
+                    Informatik 2011, vol 2, 17-35. </li><br>
+                  <li> I. Hotz, J. Sreevalsan-Nair, H. Hagen, and B.
+                    Hamann, Tensor Field Reconstruction based on
+                    Eigenvector and Eigenvalue Interpolation, Scientific
+                    Visualization: Advanced Concepts, Schloss
+                    Dagstuhl-Leibniz-Zentrum fur Informatik 2010, vol 1,
+                    110-123. </li><br>
+                  <li> W. Xu, and J. Sreevalsan-Nair, Visual
+                    Representation of Multiple Associations in Data
+                    using Constrained Graph Layout, Proceedings of EG UK
+                    Theory and Practice of Computer Graphics 2009,
+                    65-68. </li><br>
+                  <li> J. Sreevalsan-Nair, E. van Nieuwenhuyse, I. Hotz,
+                    L. Linsen, and B. Hamann, An Interactive Visual
+                    Exploration Tool for Northern Californias
+                    Water-Monitoring System, Proceedings of Conference
+                    on Visualization and Data Analysis (VDA 2007), Part
+                    of IS&amp;T/SPIE International Symposium on
+                    Electronic Imaging, 6495, 1–12, 2007. </li><br>
+                  <li> J. Sreevalsan-Nair, L. Linsen, and B. Hamann,
+                    Using Ray Intersection for Dual Isosurfacing,
+                    Proceedings of International Conference on Computer
+                    Graphics Theory and Applications (GRAPP ’06), 34-42,
+                    2006. </li><br>
+                  <li> J. Sreevalsan-Nair, L. Linsen, B.A. Ahlborn, M.S.
+                    Green, and B. Hamann, Hierarchical Visualization of
+                    Large-scale Unstructured Hexahedral Volume Data,
+                    Proceedings of Lake Tahoe Workshop on Collaborative
+                    Virtual Reality and Visualization 2003. </li>
+                </ul>
+                <br>
+                <h2>Peer-Reviewed Journal Publications</h2>
+                <ul>
+                  <li> J. Sreevalsan-Nair, L. Linsen, and B. Hamann,<a
+                      href="http://www.jvrb.org/4.2007/1170/"
+                      target="_new"> Topologically Accurate Dual
+                      Isosurfaces using Ray Intersection</a>, Journal of
+                    Virtual Reality and Broadcasting 4(4), 2007 (invited
+                    to special issue of Intl Conf on Computer Graphics
+                    Theory &amp; Applications, 2006) </li><br>
+                  <li> D. Thompson, R. Machiraju, M. Jiang, J. Nair, G.
+                    Craciun, and S. Venkata, Physics-Based Feature
+                    Mining for Large Datasets, IEEE Computing in Science
+                    and Engineering, Vol. 4, No. 4, 2002, pp 22-30. </li><br>
+                </ul>
+                <br>
+                <h2>Book Chapters</h2>
+                <ul>
+                  <li> J. Sreevalsan-Nair, C. Auer, B. Hamann, and I.
+                    Hotz, Eigenvector-based Interpolation and
+                    Segmentation of 2D Tensor Fields, Topological Data
+                    Analysis and Visualization: Theory, Algorithms, and
+                    Applications, Springer-Verlag, Mathematics and
+                    Visualization Series, 2011, 139-150. </li><br>
+                  <li> J. Sreevalsan-Nair, M. Verhoeven, D.L.Woodruff ,
+                    I. Hotz, and B. Hamann, Human-guided enhancement of
+                    a stochastic local search, Visualization and
+                    adjustment of 3D pheromone, Proceedings of
+                    Engineering Stochastic Local Search Algorithms (SLS)
+                    2007, Lecture Notes in Computer Science (LNCS)
+                    Series, Vol. 4638, Springer-Verlag, Heidelberg,
+                    Germany, 182-186. </li>
+                </ul>
+                <br>
+                <h2>Poster/Paper/Software Presentations</h2>
+                <ul>
+                  <li> K. Prasad B. V., N. Kumar, S. Agrawal, H.
+                    Gangakhedkar, and J. Sreevalsan- Nair, “Partial
+                    Implementation of Hybrid MD5-Blowfish Algorithm in
+                    Kernel Space on the GPU Using CUDA,” 19th Annual
+                    International Conference on High Performance
+                    Computing 2012 - Student Research Symposium
+                    (HiPC2012-SRS), 
+                    Dec. 2012. </li><br>
+                  <li> K. Patel, J. Savalia, and J. Sreevalsan-Nair,
+                    Parallelization of Complex Event Processing, 18th
+                    Annual International Conference on High Performance
+                    Computing 2011 - Student Research Symposium
+                    (HiPC2011-SRS), Dec. 2011, <br>
+                    <a
+                      href="http://www.hipc.org/hipc2011/studsym-papers/1569512661.pdf"
+                      target="_new">http://www.hipc.org/hipc2011/studsym-papers/1569512661.pdf</a>
+                  </li>
+                  <li> M. Esteva, W. Xu, J. Sreevalsan-Nair, A. Athalye,
+                    and M. Hade, <a
+href="http://www.archivists.org/conference/austin2009/AM09-call-precons.asp"
+                      target="_new">Computational Analysis and
+                      Visualization of Electronic Records Collections</a>,
+                    Joint Annual Meeting of the Society of American
+                    Archivists and the Council of State Archivists,
+                    Austin, TX, August 11, 2009. </li><br>
+                  <li> M. Esteva, W. Xu, J. Sreevalsan-Nair, M. Hade,
+                    and A. Athalye,<a
+                      href="http://www.law.pitt.edu/DESI3_Workshop/DESI_III_papers.htm"
+                      target="_new"> Finding Narratives of Activities
+                      through Archival Bond in Electronically Stored
+                      Information (ESI)</a>, Global
+                    E-Discovery/E-Disclosure Workshop: A Pre-Conference
+                    Workshop at the 12th International Conference on
+                    Artificial Intelligence and Law, Barcelona, Spain,
+                    August 6, 2009. </li><br>
+                  <li> E.van Nieuwenhuyse, J. Sreevalsan-Nair, I. Hotz,
+                    L. Linsen, and B. Hamann, Demonstration of an
+                    interactive data visualization tool for water
+                    resource monitoring networks in the Delta and its
+                    catchment, Laptop demonstration at Interagency
+                    Ecological Program (IEP) Annual Workshop 2007,
+                    California, 2007. </li><br>
+                  <li> J. Sreevalsan-Nair, C.S. Co, E.van Nieuwenhuyse,
+                    L. Linsen, and B. Hamann, Visualization of Water
+                    Resource Data, Poster presentation at U.C.Davis
+                    Student Workshop of Computing, California, 2003. </li>
+                </ul>
+              </div>
+            </div>
+            <div id="view2" class="tabcontent"> </div>
+            <div id="view3" class="tabcontent"> </div>
+          </div>
+        </div>
+              <p class="readmore"><!--<a href="#">Continue Reading &raquo;</a>--></p>
+            
+            
+          </ul>
+
+       </div>
+      
+    </div>
+    <!-- ####################################################################################################### -->
+  </div>
+</div>
+</div>
+<!-- ####################################################################################################### -->
+
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="copyright" class="clear">
+    <p align="center">
+     &copy; 2013 CSL @ IIIT-Bangalore. All rights reserved<br>
+26/C Electronics City, Hosur Road, Bangalore 560 100<br>
+India</p>
+    <!--<p class="fl_right">Template by <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>-->
+  </div>
+</div>
+</body>
+</html>
